@@ -94,13 +94,13 @@ The data engineering pipeline involves extracting data from various sources, pro
 <br>
 
    <p align=center>
-   <img width=600 src='../../Images/data-pipeline.png'>
+   <img width=700 src='../../Images/data-pipeline.png'>
    </p>
 
 
 
-   <table>
-   <tr>
-      <td valign="top"><img width=700  src="../../Images/data-pipeline.png"/></td>
-   </tr>
-   </table>
+<table>
+<tr>
+   <td valign="top"><img width=700  src="../../Images/data-pipeline.png"/></td>
+</tr>
+</table>
