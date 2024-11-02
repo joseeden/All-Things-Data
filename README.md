@@ -1,10 +1,14 @@
 
 # All Things Data
 
-> [!Note]
-> This repository is now archived.
+> [!WARNING] 
+> 
+> This repository is now archived.<br>
 > All future documentations can be accessed on my personal website.<br>
 > See [Joeden in Github](https://github.com/joseeden/joeden)
+
+
+
 
 This repository compiles notes and projects related to various data engineering aspects. Although my focus is primarily on DevOps, some of my past projects involved:
 
